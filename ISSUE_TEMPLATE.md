@@ -2,17 +2,17 @@
 
 ### Expected and Actual Behavior
 
-> **Describe what you are trying to achieve and what goes wrong.**
+**Describe what you are trying to achieve and what goes wrong.**
 
-> Provide output if related. 
+Provide output if related. 
 
-```php
+```bash
 // paste output here
 ```
 
-> Provide minimal script to reproduce the issue
+Provide minimal script to reproduce the issue
 
-```php
+```bash
 // paste code
 ```
 
