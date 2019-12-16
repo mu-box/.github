@@ -4,11 +4,12 @@ issuehunt: mu-box
 ko_fi: microbox
 patreon: microbox
 liberapay: microbox
-# community_bridge: microbox
 
+# community_bridge: microbox
 # open_collective: microbox
-# custom:
-# - link1
+
+custom:
+- "https://paypal.me/hunsakerdan"
 # - link2
 # - link3
 # - link4
