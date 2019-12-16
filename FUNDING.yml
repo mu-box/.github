@@ -9,7 +9,7 @@ liberapay: microbox
 # open_collective: microbox
 
 custom:
-- paypal.me/hunsakerdan
+- "https://paypal.me/hunsakerdan"
 # - link2
 # - link3
 # - link4
