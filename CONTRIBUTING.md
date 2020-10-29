@@ -4,11 +4,11 @@ Microbox is an open source project powered by volunteers that use their time to 
 
 ## Contributions
 
-Contributions to Microbox should be in the form of GitHub pull requests. Each pull request will be reviewed by a core contributor (someone with permission to merge). The pull request can then be merged, feedback can be added, changes requested or the pull request can be denied. All contributions should follow this format, even those from core contributors.
+Contributions to Microbox should be in the form of GitHub pull requests. Each pull request will be reviewed by a core contributor (someone with permission to merge). The pull request can then be merged, feedback can be added, changes requested, or the pull request can be denied. All contributions should follow this format, even those from core contributors.
 
 ## Questions & Support
 
-We use the GitHub issues for tracking bugs and feature requests and have limited bandwidth to address all of them. Thus we only accept bug reports, new feature requests and pull requests in GitHub. Our great community and contributors are happy to help you though! Please use these community resources for obtaining help.
+We use the GitHub issues for tracking bugs and feature requests and have limited bandwidth to address all of them. Thus we only accept bug reports, new feature requests, and pull requests in GitHub. Our great community and contributors are happy to help you though! Please use these community resources for obtaining help.
 
 * Come join the Microbox [Discord](https://discord.gg/MCDdHfy)
 * If you still believe that what you found is a bug, please [open an issue](https://github.com/mu-box/core)
