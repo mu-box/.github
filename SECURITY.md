@@ -9,4 +9,4 @@
 
 ## Reporting a Vulnerability
 
-Please report security issues via email to danhunsaker+microbox@gmail.com
+Please report security issues via email to hennikhunsaker@microbox.cloud
