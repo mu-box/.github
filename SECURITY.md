@@ -9,4 +9,4 @@
 
 ## Reporting a Vulnerability
 
-Please report security issues via email to hennikhunsaker@microbox.cloud
+Please report security issues using GitHub's [security advisory reporting feature](security/advisories).
