@@ -8,10 +8,10 @@ Contributions to Microbox should be in the form of GitHub pull requests. Each pu
 
 ## Questions & Support
 
-We use the GitHub issues for tracking bugs and feature requests and have limited bandwidth to address all of them. Thus we only accept bug reports, new feature requests, and pull requests in GitHub. Our great community and contributors are happy to help you though! Please use these community resources for obtaining help.
+We use GitHub issues for tracking bugs and feature requests, but have limited bandwidth to address all of them. Thus we only accept bug reports, new feature requests, and pull requests in GitHub. Our great community and contributors are happy to help you though! Please use these community resources for obtaining help:
 
 * Come join the Microbox [Discord](https://discord.gg/MCDdHfy)
-* If you still believe that what you found is a bug, please [open an issue](https://github.com/mu-box/core)
+* If you still believe that what you found is a bug, please [open an issue](https://github.com/mu-box)
 
 Please report bugs when you've exhausted all of the above options.
 
@@ -24,14 +24,13 @@ Please report bugs when you've exhausted all of the above options.
 
 ## Pull Request Checklist
 
-* Don't submit your pull requests to the `master` branch. Branch from the required branch and, if needed, rebase to the proper branch before submitting your pull request. If it doesn't merge cleanly with master you may be asked to rebase your changes
-* Don't put submodule updates in your pull request unless they are to landed commits 
-* Add tests relevant to the fixed bug or new feature. 
+* Submit your pull requests to the `main` branch. If needed, rebase on `main` before submitting your pull request. If it doesn't merge cleanly, you may be asked to rebase your changes
+* Avoid using submodules! Instead, pull in required repos as packages using the appropriate language's import mechanism
+* Add tests relevant to the fixed bug or new feature.
 
 ## Requesting Features
 
-If you have a change or new feature in mind, please open an issue in GitHub, clearly marking it as a NFR.
-
+If you have a change or new feature in mind, please open an issue in GitHub, clearly marking it as a New Feature Request.
 
 Thanks!
 

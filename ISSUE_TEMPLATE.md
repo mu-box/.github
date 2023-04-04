@@ -1,23 +1,23 @@
-> Questions should go to https://discord.gg/MCDdHfy
+<!-- Questions should go to https://discord.gg/MCDdHfy -->
 
 ### Expected and Actual Behavior
 
 **Describe what you are trying to achieve and what goes wrong.**
 
-Provide output if related. 
+Minimal script to reproduce the issue:
+
+```bash
+// paste code here
+```
+
+Output if related.
 
 ```bash
 // paste output here
 ```
 
-Provide minimal script to reproduce the issue
-
-```bash
-// paste code
-```
-
 ### Details
 
-* Microbox version: 
-* Operating System:
-* Other related info: 
+* Microbox version: <!-- `microbox version` output here -->
+* Operating System: <!-- be as specific as you can -->
+* Other related info: <!-- anything else we might need to know -->
